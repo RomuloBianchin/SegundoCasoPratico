@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#222222</color> <!-- Propriedada da cor do fundo das actionsBar, para que todas fiquem da mesma cor.-->
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Cor do fundo que será utilizado em todos os layouts-->
+    <color name="corFundoLayouts">#b20f18</color>
+</resources>

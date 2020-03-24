@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">2º Caso Prático</string>
+
+
+    <!-- Strings corresnpondentes a cada um dos 4 icones da aplicação posicionados na actionBar-->
+    <string name="txt_icone_gravador">GRAVADOR</string>
+    <string name="txt_icone_publico">PÚBLICO</string>
+    <string name="txt_icone_tsf">TSF</string>
+    <string name="txt_icone_correio_da_manha">CORREIO DA MANHÃ</string>
+
+
+    <!--teste-->
+    <string name="gravador">Aproxime-se do sensor, para iniciar a gravação do Aúdio</string>
+    <string name="correio_da_manha">Correio da Manhã</string>
+    <string name="tsf">TSF</string>
+    <string name="a_gravar_do_microfone">A gravar do microfone....</string>
+
+
+    <!-- Strings corresnpondentes aos Layouts-->
+    <string name="abana_me">Abana_me!</string>
+    <string name="reproduzir">REPRODUZIR</string>
+    <string name="fechar">Fechar</string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!--Adicionando e passando os atríbutos ao icone gravador-->
+    <item
+        android:id="@+id/microfone"
+        android:icon="@drawable/microfone"
+        app:showAsAction="always|withText"
+        android:title="@string/txt_icone_gravador" />
+
+    <!--Adicionando e passando os atríbutos ao icone P - Público -->
+    <item
+        android:id="@+id/publico_logo"
+        android:icon="@drawable/publico_logo"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/txt_icone_publico" />
+
+    <!--Adicionando e passando os atríbutos ao icone Tsf-->
+    <item
+        android:id="@+id/tsf"
+        android:icon="@drawable/tsf_logo"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/txt_icone_tsf" />
+
+    <!--Adicionando e passando os atríbutos ao icon CM TV-->
+    <item
+        android:id="@+id/cm_tv"
+        android:icon="@drawable/cm_logo"
+        app:showAsAction="always|withText"
+        android:title="@string/txt_icone_correio_da_manha"/>
+
+
+</menu>
